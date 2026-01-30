@@ -32,10 +32,17 @@ The application allows users to perform various arithmetic operations by selecti
 
 ## sample output
 
-choose operation
-+
+choose operation  
+
++ addition
+
+
 enter the number: 10
+
+
 enter the number: 20
+
+
 Output: 30
 
 
