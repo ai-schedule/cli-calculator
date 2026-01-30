@@ -31,7 +31,8 @@ The application allows users to perform various arithmetic operations by selecti
 3. Run the following command:
 
 ## sample output
-choose operation-
+
+choose operation
 +
 enter the number: 10
 enter the number: 20
