@@ -3,8 +3,8 @@
 ## 📖 Description
 A command-line based calculator built using Python as part of an online internship task.  
 The application allows users to perform various arithmetic operations by selecting options from a menu.
-Here i used if-else because i want to make it easy and working for each version, you can also use match-case for version above 3.10.
-here i use special character as a string thats why it is easy for me to use the operator for the desried operation.
+Here I used if-else because I want to make it easy and working for each version, you can also use match-case for version above 3.10.  
+** Here I use special charactera as a string thats why it is easy for me to use the operator for the desried operation. ** 
 ---
 
 ## 🧮 Features
