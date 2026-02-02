@@ -58,3 +58,6 @@ Through this project, I was able to:
 
 ```bash
 python calculator.py
+
+## 👩‍💻 Author
+Maanya Verma
